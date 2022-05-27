@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevinitgupta" alt="thevinitgupta" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/thevinitgupta/Portfolio)
+- 🔭 I’m currently working on [Pigshell](https://github.com/thevinitgupta/Pigshell)
 
 - 🌱 I’m currently learning **Typescript**
 
