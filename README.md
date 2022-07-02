@@ -6,7 +6,7 @@
 <a href="https://leetcode.com/thevinitgupta"><img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=#FFA116" alt="CodePen" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/thevinitgupta/"><img src="https://img.shields.io/badge/Linkedin-024991?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
-<p align="center">Focused, driven fullstack developer since 2020 using MERN. BiblioPhile.</p>
+<h3 align="center">Focused, driven fullstack developer since 2020 using MERN. A BiblioPhile 📚 </h3>
 <p>I am developer by 💙 with a passion to build cool, innovative webb apps. Currently, I am learning GraphQL and documenting my journey on <a href="https://dev.to/thevinitgupta">Dev.to ✍</a></p>
 <p>I have also started contributing to open source to connect with the community.</p>
 <br />
