@@ -4,7 +4,7 @@
 <a href="https://thevinitgupta.me/"><img src="https://img.shields.io/badge/PORTFOLIO-E0DE3D?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
 <a href="https://dev.to/thevinitgupta"><img src="https://img.shields.io/badge/dev.to-030303?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 <a href="https://leetcode.com/thevinitgupta"><img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=#FFA116" alt="CodePen" /></a>&nbsp;
-<a href="https://linkedin.com/thevinitgupta"><img src="https://img.shields.io/badge/Linkedin-024991?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/thevinitgupta/"><img src="https://img.shields.io/badge/Linkedin-024991?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 <p align="center">Focused, driven fullstack developer since 2020 using MERN. BiblioPhile.</p>
 <p>I am developer by 💙 with a passion to build cool, innovative webb apps. Currently, I am learning GraphQL and documenting my journey on <a href="https://dev.to/thevinitgupta">Dev.to ✍</a></p>
