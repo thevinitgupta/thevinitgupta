@@ -31,9 +31,9 @@
 
  ⚛ I’m currently learning ___ **GraphQL**
 
- 💬 Ask me about ___ **react, node, vue**
+ 💬 Ask me about **react, node, vue**
 
- 📫 How to reach me ___ **thevinitgupta@gmail.com**
+ 📫 How to reach me **thevinitgupta@gmail.com**
 
  ⚡ Fun fact ___ **I can draw**
  
