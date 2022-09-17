@@ -27,15 +27,15 @@
 
 <p>In my latest project, I created a <a href="https://github.com/thevinitgupta/Pigshell">Pixelated Filter App</a> which converts images and live video into magical characters 🤳. I created this project to participate in my first hackathon - Appwrite x Dev Hackathon May-June 2022. </p>
 
- 💪 I’m currently working ___ on becoming a good programmer
+ 💪 I’m currently working on becoming a good programmer
 
- ⚛ I’m currently learning ___ **GraphQL**
+ ⚛ I’m currently learning **GraphQL**
 
  💬 Ask me about **react, node, vue**
 
  📫 How to reach me **thevinitgupta@gmail.com**
 
- ⚡ Fun fact ___ **I can draw**
+ ⚡ Fun fact **I can draw**
  
  <br /> <br />
 
