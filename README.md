@@ -14,13 +14,14 @@
 <h2 align="center">Look at these things I made 👨‍💻</h2>
 <br />
 
-
+<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevinitgupta&repo=Pigshell&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevinitgupta&repo=MovieFling&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevinitgupta&repo=Typr&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevinitgupta&repo=DSA-Javascript&theme=radical"/>
 </p>
+-->
 
 <h2 align="center">About me 😇</h2>
 <br />
@@ -54,10 +55,11 @@
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevinitgupta&show_icons=true&theme=radical"/>
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinitgupta&layout=compact&show_icons=true&theme=radical"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=thevinitgupta&show_icons=true&theme=radical"/>
+-->
 
 
 </p>
