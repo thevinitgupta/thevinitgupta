@@ -30,7 +30,7 @@
 
  💪 I’m currently working on becoming a good programmer
 
- ⚛ I’m currently learning **GraphQL**
+ ⚛ I’m currently learning **Blockchain**
 
  💬 Ask me about **react, node, vue**
 
