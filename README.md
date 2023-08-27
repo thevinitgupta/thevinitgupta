@@ -13,7 +13,11 @@
 
 <h2 align="center">Look at these things I made 👨‍💻</h2>
 <br />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thevinitgupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevinitgupta&repo=Pigshell&theme=radical"/>
