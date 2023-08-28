@@ -11,11 +11,6 @@
 <p>I have also started contributing to open source to connect with the community.</p>
 <br />
 
-<h2 align="center">Look at these things I made 👨‍💻</h2>
-<br />
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thevinitgupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!--
@@ -29,6 +24,8 @@
 
 <h2 align="center">About me 😇</h2>
 <br />
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p>In my latest project, I created a <a href="https://github.com/thevinitgupta/Pigshell">Pixelated Filter App</a> which converts images and live video into magical characters 🤳. I created this project to participate in my first hackathon - Appwrite x Dev Hackathon May-June 2022. </p>
 
