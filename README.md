@@ -1,7 +1,7 @@
 # <div align="center">I'm Vinit, a Full-Stack Developer 👨‍💻 from India 🇮🇳</div>  
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/thevinitgupta/thevinitgupta/output/snake.svg" alt="Snake animation" />
 
 - ### 🔭 I’m currently working on [Lynkit - Cached URL Shortner](https://github.com/thevinitgupta/lynkit-backend)  
   
