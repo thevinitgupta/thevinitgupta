@@ -1,4 +1,4 @@
-# <div align="center">I'm Vinit, a Full-Stack Developer 👨‍💻 from India 🇮🇳</div>  
+# <div align="center">I'm Vinit, from India 🇮🇳</div>  
 
 ![Portfolio](https://github.com/thevinitgupta/thevinitgupta/assets/65801700/36334c9f-3ab9-46aa-9f92-357bd1c509ec)
 
