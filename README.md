@@ -1,4 +1,7 @@
 # <div align="center">I'm Vinit, a Full-Stack Developer 👨‍💻 from India 🇮🇳</div>  
+
+![Portfolio](https://github.com/thevinitgupta/thevinitgupta/assets/65801700/36334c9f-3ab9-46aa-9f92-357bd1c509ec)
+
 <div align="center">
 <a href="https://github.com/thevinitgupta" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -19,7 +22,7 @@
   
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/thevinitgupta/thevinitgupta/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/thevinitgupta/thevinitgupta/output/snake.svg" alt="Snake animation" /> -->
 
 - ### 🔭 I’m currently working on [Lynkit - Cached URL Shortner](https://github.com/thevinitgupta/lynkit-backend)  
   
